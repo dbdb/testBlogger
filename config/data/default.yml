@@ -1,0 +1,9 @@
+create_post_page:
+  post_title: ~words
+  post_body: ~sentence 20
+  post_labels: ~randomize ['tag1', 'tag2', 'tag3']
+
+edit_layout_page:
+  blog_header: ~words
+
+  
