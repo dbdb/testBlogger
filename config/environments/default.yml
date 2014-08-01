@@ -3,3 +3,6 @@ blog_url: http://yourname.blogspot.com/
 admin:
   username: username
   password: password
+
+framework:
+  results_dir: log/
